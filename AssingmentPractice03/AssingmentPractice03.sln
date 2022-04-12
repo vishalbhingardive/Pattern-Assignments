@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssingmentPractice03", "AssingmentPractice03.csproj", "{18EA985A-B4ED-4D84-BD43-05390A96D031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern", "..\Pattern\Pattern.csproj", "{1FC452F4-3AD4-4E01-AC1B-F9D950BF2696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18EA985A-B4ED-4D84-BD43-05390A96D031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EA985A-B4ED-4D84-BD43-05390A96D031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EA985A-B4ED-4D84-BD43-05390A96D031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EA985A-B4ED-4D84-BD43-05390A96D031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC452F4-3AD4-4E01-AC1B-F9D950BF2696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC452F4-3AD4-4E01-AC1B-F9D950BF2696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC452F4-3AD4-4E01-AC1B-F9D950BF2696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC452F4-3AD4-4E01-AC1B-F9D950BF2696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD07697B-123B-402B-BEDE-11DF98938428}
+	EndGlobalSection
+EndGlobal
